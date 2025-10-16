@@ -106,7 +106,7 @@ custom_components/tianditu_map/
     ├── tianditu_config.js   # 配置和代理逻辑
     └── hass_tianditu.js     # 核心替换逻辑
 ```
-文件是由**generate_tianditu_js.sh**基本自动生成的。
+文件是由**generate_tianditu_js.sh**脚本自动生成的。
 ## 许可证
 
 本项目采用 MIT 许可证 - 查看 [LICENSE](LICENSE) 文件了解详情。
